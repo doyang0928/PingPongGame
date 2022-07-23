@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#wrap{
+    display: flex; 
+    justify-content: center;
+}
+canvas{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+h1{
+    text-align: center;
+}
+#Score{
+    display: flex; 
+    text-align: center;
+}
